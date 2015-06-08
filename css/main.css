@@ -1,0 +1,86 @@
+body{	background-image:url('body.jpg');	background-repeat: no-repeat;    background-size: 100% 100%;}p{	font-size:0.785em;}
+footer{	margin-right: 6px;}/*form{	font-size: 1em;}*/footer{	margin-top: 200px;	text-align:center;	
+text-transform:uppercase;	font-size:20px;	font-family:Helvetica, Arial, sans-serif;	font-weight:bold;		
+background-color:#0074a3;	color:white;}/*#howto{	background-color:#eeeeee;}*/#score_area{	margin-left: 20px;}#gscore td{	width: 80px;}#mono{	font-family:Monaco, DejaVu Sans Mono, Consolas;	}#question{	background-color:#eeeeee;}#studentTableNo{	background-color: #a8c1c7;}#submit_field{	margin-left: 50px;}#grey{	color: #777777;}#greybg{	background-color: #bbbbbb;	color: #dddddd;}
+#mainContent
+{	background-image:url('white.jpg');
+	font-family: Helvetica, Arial, sans-serif;
+		margin-right:20%;	margin-left:20%; 	padding-bottom: 300px;
+}#blue{	color: #0055bb;}#title{	text-align:center;	text-transform:uppercase;	font-size:20px;	font-family:font-family: Helvetica, Arial, sans-serif;	font-weight:bold;		background-color:#0074a3;	color:white;	}
+
+#nav0
+{
+	font-family: Helvetica, Arial, sans-serif;
+		background-color:#0074a3;
+	color:white;
+	font-size:0.9em;
+	margin-bottom:40px;
+	font-weight:bold;
+}
+
+#login
+{
+	font-size:12px;
+	text-align:left;
+}
+
+a:link 
+{
+	text-decoration:none;
+	color:white;
+	margin:20px;
+		background-color:#0074a3;
+}
+
+a:visited
+ {
+	text-decoration:none;
+	color:white;
+	margin:20px;
+		background-color:#0074a3;
+}
+
+a:hover
+{
+	text-decoration:underline;
+	color:red;
+	margin:20px;
+		background-color:#0074a3;
+} 
+
+#loginInfo
+{	margin-left: 9px;
+	color: #3f9300;
+	font-size:0.85em;
+	font-weight:bold;
+}
+
+#sysInfo
+{
+	color:#7x766B;
+	font-size:0.875em;
+	font-weight:bold;
+}
+
+#errInfo
+{
+	color:red;
+	font-size:12px;
+	font-weight:bold;
+}
+
+table
+{	border-collapse:collapse;
+}
+table, td, th{	border:2px solid #57636A;	text-align:center;	font-size:0.9em;}
+
+#radio
+{
+	text-align:left;
+}
+
+#wtd
+{
+	background-color:white;
+	color:black;
+}
